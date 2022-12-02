@@ -13,4 +13,4 @@ The simulation is built on two Python libraries `PyMunk` and `PyGame`.
 The first iteration of the simulation simulates the scenario with a two-piece discrete link with one end hanging to the ceiling and the other end being draggble by the cursor. This program is hard-coded for now.  
 We are developing a new version of simulation that simulates a discrete chain with both ends hanged to the ceiling. This version will take number of discrete components of the chain as input from the user and generate a corresponding discrete chain.
 ## Demos
-![alt text](Demos/demo1.png "Title")
+![alt text](Demos/demo_link_3.png "Title")
